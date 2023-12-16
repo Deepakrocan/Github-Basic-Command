@@ -1,17 +1,17 @@
+/* git configure with git reposrity */
+
+git config -- golbal user.name "user name "
+git config -- glbal user.email "mail address" 
 
 
-2. git init
+/* git clone command in */
 
-3. git add .
+git clone "address copy & past"
+cd  " folder name " 
+git add " file name "
+git status
 
-4. git commit -m "first commit"
-
-1.1. git branch -M main
-
- 1. git remote add origin https://github.com/kowsi332/javasample.git
- 
-5. git push (-u origin main)
-
-git pull
-
-git clone   https://rep.link
+    /* adding file with git */
+git add " file name "
+git commit -m " modified file "
+git push orign main
